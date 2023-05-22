@@ -6,3 +6,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Setup GitHub account
+- [x] Setup and sync Gitpod account
+- [x] Have fun!
